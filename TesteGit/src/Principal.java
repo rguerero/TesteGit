@@ -1,7 +1,7 @@
 public class Principal {
 
 	public static void main(String[] args) {
-		System.out.println("Primeira versão");
+		System.out.println("Segunda versão");
 
 	}
 
